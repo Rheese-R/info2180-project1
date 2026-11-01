@@ -1,2 +1,3 @@
-# info2180-project1
-INFO2180 Project 1 - Healthy Lifestyle Landing Page
+# INFO2180-Project1
+
+This is Project 1 for Rheese-Ashley Roman on HTML, CSS and JavaScript. It features a healthy lifestyle landing page.
